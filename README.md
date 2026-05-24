@@ -199,6 +199,16 @@ Developed interactive dashboards with:
 ![Image2](https://github.com/ROHIT19K/Insurance-Data-Analysis-Power-BI-DashBoard-/blob/main/Insurance%20First%20PAGE.png)
 ![Image3](https://github.com/ROHIT19K/Insurance-Data-Analysis-Power-BI-DashBoard-/blob/main/Insurance%20Page%202.png)
 
+## Drill Down And Drill Through Functionality By Premium Amount BY Policy Type
+
+    In This , We have selected For Travel  
+    
+![Image5](https://github.com/ROHIT19K/Insurance-Data-Analysis-Power-BI-DashBoard-/blob/main/Premium%20By%20Policy%20Type%20.png)
+
+    Result For Travel Only In the Policy Type Column
+
+![Image6](https://github.com/ROHIT19K/Insurance-Data-Analysis-Power-BI-DashBoard-/blob/main/Drill%20Down%20Functionality.png) 
+
 ## Power BI Service Dashboard
 
 ![Image4](https://github.com/ROHIT19K/Insurance-Data-Analysis-Power-BI-DashBoard-/blob/main/Insurance%20Data%20Analysis%20Power%20BI%20Service%20Published%20.png)
