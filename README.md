@@ -192,22 +192,16 @@ Developed interactive dashboards with:
 # 📊 Dashboard Preview
 
 ## Data Cleaning & Transformation
+![Image1](https://github.com/ROHIT19K/Insurance-Data-Analysis-Power-BI-DashBoard-/blob/main/Data%20Cleaning%20And%20Transformation%20Of%20Insurance%20Data%20Analysis%20%20.png)
 
 ## Dashboard Overview
 
-Add Screenshot Here
-
-## Claims Analysis Dashboard
-
-Add Screenshot Here
-
-## Customer Demographics Dashboard
-
-Add Screenshot Here
+![Image2](https://github.com/ROHIT19K/Insurance-Data-Analysis-Power-BI-DashBoard-/blob/main/Insurance%20First%20PAGE.png)
+![Image3](https://github.com/ROHIT19K/Insurance-Data-Analysis-Power-BI-DashBoard-/blob/main/Insurance%20Page%202.png)
 
 ## Power BI Service Dashboard
 
-Add Screenshot Here
+![Image4](https://github.com/ROHIT19K/Insurance-Data-Analysis-Power-BI-DashBoard-/blob/main/Insurance%20Data%20Analysis%20Power%20BI%20Service%20Published%20.png)
 
 ---
 
@@ -251,9 +245,6 @@ Add Screenshot Here
     1. Active - 5.81K (58.11%)
     2. Inactive - 4.19K (41.89%)
 
-• Policy Type By Pending / Rejected / Settled / Total   
-
-Image : ![Image1]()
 ---
 
 # 🚀 Future Enhancements
